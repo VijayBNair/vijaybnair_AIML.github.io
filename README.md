@@ -1,6 +1,6 @@
 # Data Collection
-##-	Data Clean up.
-###	Remote the null values.
+## Data Clean up.
+###	Remove the null values.
 ###	Remove the out layers.
 ##	Data Prep
 ###	String to Numerical conversion.
