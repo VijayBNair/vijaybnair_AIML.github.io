@@ -2,12 +2,15 @@
 ## Data Clean up.
 -	Remove the null values.
 -	Remove the out layers.
+---
 ##	Data Prep
 -	String to Numerical conversion.
 -	Grouping and limiting the possible values.
+--
 ##	Prep Data for training and testing (model selection)
 -	Reshaping
 -	Normalize values
+---
 ##	Model building/Model Selection (select classifier)
 ###	Hidden layer size
 ###	Activation function
