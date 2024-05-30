@@ -35,3 +35,6 @@
 6.	Ground Truth
 
 References
+
+1. Vision Transformers (ViT) in Image Recognition
+Read more at: https://viso.ai/deep-learning/vision-transformer-vit/
